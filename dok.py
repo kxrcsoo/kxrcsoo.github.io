@@ -2,7 +2,7 @@ import webbrowser
 import pyautogui
 import time
 
-url = 'https://kurcsoo.eu/dok.html'
+url = 'https://kxrcsoo.github.io/'
 webbrowser.open(url)
 
 time.sleep(0.5)
